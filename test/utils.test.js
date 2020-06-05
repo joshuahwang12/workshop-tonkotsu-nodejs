@@ -8,7 +8,7 @@ var mochaAsync = fn => {
     });
   };
 };
-//test project
+//test project deployment
 describe("Utils", function() {
   describe("greetings", function() {
     it("Says Hello World", function() {
